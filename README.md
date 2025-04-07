@@ -1,7 +1,5 @@
 # TaskFlow: A Full-Stack Task Manager
 
-![TaskFlow Screenshot](favicon.png) <!-- Add a screenshot of your app here -->
-
 TaskFlow is a modern, full-stack task management application designed to help users organize their tasks efficiently. With features like **user authentication**, **dark mode**, and **real-time updates**, TaskFlow provides a seamless experience for managing tasks.
 
 ## Features
@@ -23,7 +21,7 @@ TaskFlow is a modern, full-stack task management application designed to help us
 ## Live Demo
 
 Check out the live demo of TaskFlow:  
-[TaskFlow Live Demo](https://taskflow-frontend.vercel.app)
+[TaskFlow Live Demo](http://147.93.94.250/taskflow/))
 
 ## Screenshots
 
