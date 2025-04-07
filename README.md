@@ -48,7 +48,7 @@ To run TaskFlow locally, follow these steps:
    cd taskflow/backend
 
 2. Install dependencies:
-   ```npm install
+   ```npm install```
 
 3. Create a .env file in the backend folder and add your environment variables:
 
