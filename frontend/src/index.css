@@ -1,0 +1,30 @@
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --navbar-bg: #f8f9fa;
+  --button-bg: #007bff;
+  --button-text: #ffffff;
+}
+
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #ffffff;
+  --navbar-bg: #343a40;
+  --button-bg: #bb86fc;
+  --button-text: #000000;
+}
+
+#root {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  height: auto;
+}
+
+.navbar {
+  background-color: var(--navbar-bg) !important;
+}
+
+.btn-primary {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+}
